@@ -8,3 +8,6 @@ insecure
 bootstrap
 coffeescript
 iron-router
+iron-layout
+iron-core
+iron-dynamic-template
